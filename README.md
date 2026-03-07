@@ -8,8 +8,7 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis"><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=CMAB+%E2%80%94+32M%2B+buildings%2C+23K%2B+downloads"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=Recall+%26+DigitalMe+%E2%80%94+AI+productivity+tools">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=CMAB+%E2%80%94+32M%2B+buildings%2C+23K%2B+downloads">
 
 ---
 

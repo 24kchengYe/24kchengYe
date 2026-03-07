@@ -6,9 +6,11 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 
 **Key works:**
 
-- **AI4US** — A benchmark framework evaluating LLMs on scientific data synthesis across symbolic reasoning and multimodal perception.
-- **UrbanAlign** — Training-free post-hoc VLM-human preference alignment via multi-agent reasoning (+28.8pp accuracy over raw VLM).
-- **CMAB** — China's Multi-Attribute Building Dataset covering 32M+ buildings (23,000+ downloads, **ESI Highly Cited**).
+- **AI4US** — LLM benchmark for scientific data synthesis
+- **UrbanAlign** — Training-free VLM-human preference alignment
+- **CMAB** — 32M+ building dataset (ESI Highly Cited, 23K+ downloads)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis;UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment;CMAB+%E2%80%94+32M%2B+buildings%2C+ESI+Highly+Cited)
 
 ---
 

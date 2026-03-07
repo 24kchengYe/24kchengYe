@@ -11,8 +11,6 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 - **CMAB** — China's Multi-Attribute Building Dataset, 32M+ buildings, 23,000+ downloads. *Scientific Data*, 2025.
 - **GloGCI** — Global Ghost City Index across 10,000+ cities. *Habitat International*, 2025.
 
-**Tech stack:** Python, PyTorch, LLM/VLM APIs (OpenAI, Anthropic), CLIP, Multi-Agent Systems, GIS/Remote Sensing, PostgreSQL, JavaScript
-
 ---
 
 🌐 **[Academic Homepage](https://24kchengye.github.io)** · 🎓 [Google Scholar](https://scholar.google.com/citations?user=6vKhpBoAAAAJ&hl=en) · 📧 [Email](mailto:zhangyec23@mails.tsinghua.edu.cn)

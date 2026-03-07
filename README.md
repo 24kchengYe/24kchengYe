@@ -6,7 +6,7 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 
 **Key works:**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=2000&color=36BCF7&width=580&height=100&multiline=true&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis;UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment;CMAB+%E2%80%94+32M%2B+buildings%2C+ESI+Highly+Cited;Recall+%26+DigitalMe+%E2%80%94+AI+productivity+tools)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=2000&color=36BCF7&width=750&height=100&multiline=true&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis;UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment;CMAB+%E2%80%94+32M%2B+buildings%2C+ESI+Highly+Cited;Recall+%26+DigitalMe+%E2%80%94+AI+productivity+tools)
 
 ---
 

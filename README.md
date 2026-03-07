@@ -6,10 +6,7 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 
 **Key works:**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=36BCF7&width=750&height=28&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis" alt="AI4US"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=36BCF7&width=750&height=28&lines=UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment" alt="UrbanAlign"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=36BCF7&width=750&height=28&lines=CMAB+%E2%80%94+32M%2B+buildings%2C+ESI+Highly+Cited" alt="CMAB"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=36BCF7&width=750&height=28&lines=Recall+%26+DigitalMe+%E2%80%94+AI+productivity+tools" alt="Tools">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=1000&color=36BCF7&width=750&height=120&multiline=true&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis;UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment;CMAB+%E2%80%94+32M%2B+buildings%2C+23K%2B+downloads;Recall+%26+DigitalMe+%E2%80%94+AI+productivity+tools)
 
 ---
 

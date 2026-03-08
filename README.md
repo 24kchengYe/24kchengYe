@@ -1,6 +1,6 @@
 ## Hi, I'm Yecheng Zhang (张业成) 👋
 
-![Visitors](https://komarev.com/ghpvc/?username=24kchengYe&color=blue&style=flat-square)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F24kchengYe&count_bg=%230076D6&title_bg=%23555555&title=Profile%20Views&edge_flat=true)
 
 PhD Student at Tsinghua University.
 

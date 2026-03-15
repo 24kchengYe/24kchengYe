@@ -23,4 +23,4 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 
 ---
 
-🌐 **[Academic Homepage](https://24kchengye.github.io)** · 🎓 [Google Scholar](https://scholar.google.com/citations?user=6vKhpBoAAAAJ&hl=en) · 📧 [Email](mailto:zhangyec23@mails.tsinghua.edu.cn)
+🌐 **[Academic Homepage](https://24kchengye.github.io)** · 🎓 [Google Scholar](https://scholar.google.com/citations?user=6vKhpBoAAAAJ&hl=en) · 📧 [Email](mailto:zhangyec23@mails.tsinghua.edu.cn) · 💬 QQ: 575860760

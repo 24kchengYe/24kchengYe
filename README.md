@@ -8,19 +8,28 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 
 ### AI Tools
 
-**For AI Agents:**
+**For AI Agents** — give AI memory and workspace:
 
 | Project | What It Does |
 |---------|-------------|
 | [**MemoMind**](https://github.com/24kchengYe/MemoMind) | Memory system for AI agents — persistent, evolving knowledge graph across sessions |
 | [**Zync**](https://github.com/24kchengYe/Zync) | IDE for AI agents — orchestrate multiple agents (Claude Code, Codex, Aider) in parallel |
 
-**For Humans:**
+**For Humans** — make AI work for you:
 
 | Project | What It Does |
 |---------|-------------|
 | [**Recall**](https://github.com/24kchengYe/claude-code-recall) | AI conversation manager — browse, search, and never lose a conversation |
-| [**DigitalMe**](https://github.com/24kchengYe/digitalme) | Remote AI coding — control your agent from phone via Feishu/Telegram/Slack |
+| [**HumanSkillTree**](https://github.com/24kchengYe/HumanSkillTree) | Skill plugin ecosystem — extend AI agents with community-built capabilities |
+
+**Connected Everything** — terminal from anywhere:
+
+| Project | What It Does |
+|---------|-------------|
+| [**AnyTerm**](https://github.com/24kchengYe/AnyTerm) | Phone → Browser → Terminal. Remote-control your computer from any device |
+| [**DigitalMe**](https://github.com/24kchengYe/DigitalMe) | Chat App → AI Agent → Terminal. Control AI agents via Feishu/Telegram/Slack |
+
+> *AnyTerm for humans. DigitalMe for AI. Together, any device reaches any terminal.*
 
 **Key works:**
 

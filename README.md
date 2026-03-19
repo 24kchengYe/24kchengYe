@@ -20,7 +20,7 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 | Project | What It Does |
 |---------|-------------|
 | [**Recall**](https://github.com/24kchengYe/claude-code-recall) | AI conversation manager — browse, search, and never lose a conversation |
-| [**HumanSkillTree**](https://github.com/24kchengYe/HumanSkillTree) | Skill plugin ecosystem — extend AI agents with community-built capabilities |
+| [**HumanSkillTree**](https://github.com/24kchengYe/HumanSkillTree) | AI-augmented skill system — use AI to enhance human learning and capabilities |
 
 **Connected Everything** — terminal from anywhere:
 

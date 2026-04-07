@@ -21,15 +21,19 @@ My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Mu
 |---------|-------------|
 | [**Recall**](https://github.com/24kchengYe/claude-code-recall) | AI conversation manager — browse, search, and never lose a conversation |
 | [**HumanSkillTree**](https://github.com/24kchengYe/HumanSkillTree) | AI-augmented skill system — use AI to enhance human learning and capabilities |
+| [**Usage Monitor**](https://github.com/24kchengYe/claude-code-usage-monitor) | Real-time Claude Code quota dashboard — 5h/7d usage, reset countdowns, SSH status |
+| [**Desktop Controller**](https://github.com/24kchengYe/desktop-controller-skill) | AI Computer Use for Claude Code — control WeChat, DingTalk, any app via Win32 API + Playwright |
 
-**Connected Everything** — terminal from anywhere:
+**Connected Everything** — one voice, all devices:
 
 | Project | What It Does |
 |---------|-------------|
-| [**AnyTerm**](https://github.com/24kchengYe/AnyTerm) | Phone → Browser → Terminal. Remote-control your computer from any device |
+| [**DeviceMesh**](https://github.com/24kchengYe/DeviceMesh) | AI + Tailscale + SSH — control all your devices with natural language from anywhere |
 | [**DigitalMe**](https://github.com/24kchengYe/DigitalMe) | Chat App → AI Agent → Terminal. Control AI agents via Feishu/Telegram/Slack |
 
-> *AnyTerm for humans. DigitalMe for AI. Together, any device reaches any terminal.*
+> *DeviceMesh for infrastructure. DigitalMe for messaging. Together, one voice controls everything.*
+> 
+> *Evolved from [AnyTerm](https://github.com/24kchengYe/AnyTerm) (browser-based remote terminal) — replaced by AI-native device control.*
 
 **Key works:**
 

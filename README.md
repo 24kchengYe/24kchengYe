@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=24kchengYe&color=blue&style=flat-square&label=Profile+Views)
 
-PhD Student at Tsinghua University, , focusing on **Building Scale Urban Analysis and Simulation**.
+**PhD Student at Tsinghua University**, , focusing on **Building Scale Urban Analysis and Simulation**.
 
-ByteIntern in ByteDance, focusing on **Post-training of Doubao with Lark Base AI, Agentic RL, and Data Synthesis Pipeline**.
+**ByteIntern in ByteDance**, focusing on **Post-training of Doubao with Lark Base AI, Agentic RL, and Data Synthesis Pipeline**.
 
-My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Multi-Agent Systems**, and **Urban AI**. I design benchmarks and training-free alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
+My current research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Multi-Agent Systems**, and **Urban AI**. I design benchmarks and training-free alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
 
 ### AI Tools
 

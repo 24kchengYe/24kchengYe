@@ -4,7 +4,7 @@
 
 **PhD Student at Tsinghua University**, focusing on **Building Scale Urban Analysis and Simulation**.
 
-**ByteIntern in ByteDance**, focusing on **Post-training of Doubao with Lark Base AI, Agentic RL, and Data Synthesis**.
+**ByteIntern in ByteDance**, focusing on **Post-training of Doubao, Agentic RL, and Data Synthesis in Lark Base AI**.
 
 My current research lies at the benchmarks and alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
 

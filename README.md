@@ -6,7 +6,7 @@
 
 **ByteIntern in ByteDance**, focusing on **Post-training of Doubao with Lark Base AI, Agentic RL, and Data Synthesis Pipeline**.
 
-My current research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Multi-Agent Systems**, and **Urban AI**. I design benchmarks and training-free alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
+My current research lies at the benchmarks and alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
 
 ### AI Tools
 

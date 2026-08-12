@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=24kchengYe&color=blue&style=flat-square&label=Profile+Views)
 
-**PhD Student at Tsinghua University**, , focusing on **Building Scale Urban Analysis and Simulation**.
+**PhD Student at Tsinghua University**, focusing on **Building Scale Urban Analysis and Simulation**.
 
 **ByteIntern in ByteDance**, focusing on **Post-training of Doubao with Lark Base AI, Agentic RL, and Data Synthesis Pipeline**.
 

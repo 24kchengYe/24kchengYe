@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=24kchengYe&color=blue&style=flat-square&label=Profile+Views)
 
-PhD Student at Tsinghua University, ByteIntern in ByteDance, focusing on post-training of the Doubao with Lark Base AI, agentic RL, and the data synthesis pipeline.
+PhD Student at Tsinghua University, ByteIntern in ByteDance, focusing on **post-training of the Doubao with Lark Base AI, agentic RL, and the data synthesis pipeline**.
 
 My research lies at the intersection of **LLM/VLM Evaluation & Alignment**, **Multi-Agent Systems**, and **Urban AI**. I design benchmarks and training-free alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
 

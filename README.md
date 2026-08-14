@@ -2,46 +2,46 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=24kchengYe&color=blue&style=flat-square&label=Profile+Views)
 
-**PhD Student at Tsinghua University**, focusing on **Building Scale Urban Analysis and Simulation**.
+**Ph.D. Student at Tsinghua University** working at the intersection of **urban science and artificial intelligence**.
 
-**ByteIntern in ByteDance**, focusing on **Post-training of Doubao, Agentic RL, and Data Synthesis in Lark Base AI**.
+I build building-scale urban datasets and simulation methods, evaluate and align generative models for scientific discovery, and turn AI-agent research into open-source systems people can use. I am also a **ByteDance intern**, working on post-training, agentic reinforcement learning, and data synthesis.
 
-My current research lies at the benchmarks and alignment methods for large generative models, and build global-scale urban datasets. Passionate about building AI productivity tools.
+`50+ public projects` · `1.2k+ GitHub stars` · `32M+ buildings mapped` · `23K+ dataset downloads`
 
-### AI Tools
+### Selected Projects
 
-**For AI Agents** — give AI memory and workspace:
+| Area | Project | What It Does |
+|---|---|---|
+| **Research systems** | [**AI4UrbanScience**](https://github.com/24kchengYe/AI4UrbanScience) | Evaluates, calibrates, and extends GenAI-synthesized urban data across symbolic and perceptual domains |
+|  | [**UrbanAlign**](https://github.com/24kchengYe/UrbanAlign) | Training-free post-hoc calibration for aligning vision-language models with human preferences |
+|  | [**RS Image API**](https://github.com/24kchengYe/RS-image-api) | Remote-sensing imagery access and processing infrastructure |
+|  | [**Urban Renewal Simulation**](https://github.com/24kchengYe/Urban-Renewal-Simulation-based-on-Agent-and-Graph-Systems) | Agent- and graph-based simulation of urban-renewal processes |
+| **AI products** | [**MemoMind**](https://github.com/24kchengYe/MemoMind) | Persistent local memory for AI agents, with an evolving knowledge graph across sessions |
+|  | [**HumanSkillTree**](https://github.com/24kchengYe/human-skill-tree) | AI-powered lifelong-learning system grounded in cognitive and learning science |
+|  | [**Zync**](https://github.com/24kchengYe/Zync) | IDE for orchestrating Claude Code, Codex, Aider, and other coding agents in parallel |
+|  | [**DigitalMe**](https://github.com/24kchengYe/DigitalMe) | Control coding agents from Feishu, Telegram, or Slack with monitoring and alerts |
+|  | [**InfoHub**](https://github.com/24kchengYe/InfoHub) | Local multi-domain information aggregation with AI scoring and daily reports |
+| **Agent infrastructure** | [**Desktop Controller**](https://github.com/24kchengYe/desktop-controller-skill) | Computer use for web, Windows, and Electron apps through Playwright and Win32 APIs |
+|  | [**Recall**](https://github.com/24kchengYe/Recall) | Searchable, cross-project conversation management for AI coding sessions |
+|  | [**Prompt Harness**](https://github.com/24kchengYe/prompt-harness) | Human-prompt ledger and bad-case evaluation harness for Claude Code and Codex |
+|  | [**Experiment Log**](https://github.com/24kchengYe/experiment-log) | Reproducible workflow for planning, running, auditing, and reporting scientific experiments |
+| **Knowledge tools** | [**Note2Video**](https://github.com/24kchengYe/note2video) | Converts technical notes into 3Blue1Brown-style learning animations with Manim and LLMs |
+|  | [**AI Reviewer**](https://github.com/24kchengYe/AI-reviewer) | Structured academic-paper review across methodology, evidence, writing, and reproducibility |
 
-| Project | What It Does |
-|---------|-------------|
-| [**MemoMind**](https://github.com/24kchengYe/MemoMind) | Memory system for AI agents — persistent, evolving knowledge graph across sessions |
-| [**Zync**](https://github.com/24kchengYe/Zync) | IDE for AI agents — orchestrate multiple agents (Claude Code, Codex, Aider) in parallel |
+<sub>This is a selected portfolio. Explore the <a href="https://github.com/24kchengYe?tab=repositories">complete public project catalog</a> for more research code, agent skills, developer infrastructure, and applications.</sub>
 
-**For Humans** — make AI work for you:
+### Selected Research
 
-| Project | What It Does |
-|---------|-------------|
-| [**Recall**](https://github.com/24kchengYe/claude-code-recall) | AI conversation manager — browse, search, and never lose a conversation |
-| [**HumanSkillTree**](https://github.com/24kchengYe/HumanSkillTree) | AI-augmented skill system — use AI to enhance human learning and capabilities |
-| [**Usage Monitor**](https://github.com/24kchengYe/claude-code-usage-monitor) | Real-time Claude Code quota dashboard — 5h/7d usage, reset countdowns, SSH status |
-| [**Desktop Controller**](https://github.com/24kchengYe/desktop-controller-skill) | AI Computer Use for Claude Code — control WeChat, DingTalk, any app via Win32 API + Playwright |
+| Work | Contribution | Links |
+|---|---|---|
+| **Building-Scale Urban Analytics and Simulation** | A research vision connecting building data foundations, generative AI, and bottom-up urban simulation | [Paper](https://doi.org/10.1007/s12273-026-1461-9) |
+| **AI4US** | 1M+ synthesis trials revealing how GenAI captures urban science while oversimplifying population complexity | [Code](https://github.com/24kchengYe/AI4UrbanScience) · [arXiv](https://arxiv.org/abs/2505.13803) |
+| **UrbanAlign** | Training-free VLM–human preference alignment with interpretable semantic calibration | [Code](https://github.com/24kchengYe/UrbanAlign) · [arXiv](https://arxiv.org/abs/2602.19442) |
+| **CMAB** | A nationwide multi-attribute dataset covering 32M+ buildings in China | [Paper](https://doi.org/10.1038/s41597-025-04730-5) · [Dataset](https://figshare.com/authors/Yecheng_Zhang/20402873) |
 
-**Connected Everything** — one voice, all devices:
+### Research Interests
 
-| Project | What It Does |
-|---------|-------------|
-| [**DeviceMesh**](https://github.com/24kchengYe/DeviceMesh) | AI + Tailscale + SSH — control all your devices with natural language from anywhere |
-| [**DigitalMe**](https://github.com/24kchengYe/DigitalMe) | Chat App → AI Agent → Terminal. Control AI agents via Feishu/Telegram/Slack |
-
-> *DeviceMesh for infrastructure. DigitalMe for messaging. Together, one voice controls everything.*
-> 
-> *Evolved from [AnyTerm](https://github.com/24kchengYe/AnyTerm) (browser-based remote terminal) — replaced by AI-native device control.*
-
-**Key works:**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=AI4US+%E2%80%94+LLM+benchmark+for+scientific+data+synthesis"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=UrbanAlign+%E2%80%94+Training-free+VLM-human+alignment+%28ECCV+2026%29"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=4000&color=36BCF7&width=750&height=30&lines=CMAB+%E2%80%94+32M%2B+buildings%2C+23K%2B+downloads">
+`Building-scale urban analytics` · `Urban simulation` · `LLM/VLM evaluation and alignment` · `Agentic AI` · `Remote sensing and urban data`
 
 ---
 

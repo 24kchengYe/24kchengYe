@@ -6,7 +6,7 @@
 
 I build building-scale urban datasets and simulation methods, evaluate and align generative models for scientific discovery, and turn AI-agent research into open-source systems people can use. I am also a **ByteDance intern**, working on post-training, agentic reinforcement learning, and data synthesis.
 
-`50+ public projects` · `1.2k+ GitHub stars` · `32M+ buildings mapped` · `23K+ dataset downloads`
+`50+ public projects` · `1.2k+ GitHub stars` · `32M+ buildings mapped` · `45K+ dataset downloads`
 
 ### Selected Projects
 
@@ -25,7 +25,7 @@ I build building-scale urban datasets and simulation methods, evaluate and align
 
 **Supporting systems:** `InfoHub` · `web-novel-crawler` · `HomeSync` · `Desktop Controller` · `Recall` · `Prompt Harness` · `Experiment Log` · `Note2Video` · `AI Reviewer` · `CiteMind` · `k2md`
 
-These projects support the portfolio's broader information, agent, knowledge, and data-collection workflows without competing for flagship space.
+These projects cover the supporting information, agent, knowledge, and data-collection work around the main systems.
 
 ### Selected Research
 

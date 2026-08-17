@@ -4,7 +4,7 @@
 
 Ph.D. Student at Tsinghua University, working at the intersection of urban science and artificial intelligence.
 
-Research Intern at ByteDance, working on **post-training, agentic reinforcement learning, and data synthesis**.
+Intern at ByteDance, working on **post-training, agentic reinforcement learning, and data synthesis**.
 
 I build building-scale urban datasets and simulation methods, evaluate and align generative models for scientific discovery, and turn AI-agent research into open-source systems people can use.
 

@@ -45,4 +45,4 @@ These projects cover the supporting information, agent, knowledge, and data-coll
 
 ---
 
-🌐 **[Academic Homepage](https://24kchengye.github.io)** · 🎓 [Google Scholar](https://scholar.google.com/citations?user=6vKhpBoAAAAJ&hl=en) · 📧 [Email](mailto:zhangyec23@mails.tsinghua.edu.cn) · 💬 QQ: 575860760
+🌐 **[Zhangyecheng Blog](https://zhangyecheng.duqi.top)** · 🎓 [Academic Homepage](https://24kchengye.github.io) · 📚 [Google Scholar](https://scholar.google.com/citations?user=6vKhpBoAAAAJ&hl=en) · 📧 [Email](mailto:zhangyec23@mails.tsinghua.edu.cn) · 💬 QQ: 575860760

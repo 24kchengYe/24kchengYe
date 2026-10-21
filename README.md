@@ -1,4 +1,4 @@
-# Yecheng Zhang · 张业成
+# Yecheng Zhang
 
 Ph.D. student at Tsinghua University and LLM algorithm intern at ByteDance PDI–Seed / Lark Base AI.
 

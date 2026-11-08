@@ -8,7 +8,7 @@ Intern at ByteDance, working on post-training, agentic reinforcement learning, a
 
 I build building-scale urban datasets and simulation methods, evaluate and align generative models for scientific discovery, and turn AI-agent research into open-source systems people can use.
 
-`50+ public projects` · `1.2k+ GitHub stars` · `32M+ buildings mapped` · `45K+ dataset downloads`
+`50+ public projects` · `1.2k+ GitHub stars` · `32M+ buildings mapped` · `180K+ dataset downloads`
 
 ### Selected Projects
 
